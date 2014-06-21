@@ -1,0 +1,10 @@
+{
+    "name": "manabloom",
+
+    "dependencies": {
+        "jquery": ">=1.7.0",
+        "bootstrap": ">=3.1.1",
+        "font-awesome": ">=4.0.0",
+        "holderjs": ">=1.0.0"
+    }
+}

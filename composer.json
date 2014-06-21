@@ -2,9 +2,19 @@
     "config": {
         "vendor-dir": "src/vendor"
     },
+"extra":
+{
+    "installer-paths":
+    {
+        "public/assets/bootstrap": ["twbs/bootstrap"],
+        "public/assets/font-awesome": [ "fortawesome/font-awesome"]
+    }
+},
     "require": {
         "monolog/monolog": "1.7.*@dev",
         "smarty/smarty": "v3.1.17" ,
-        "doctrine/dbal": "2.5.*@dev"
+        "doctrine/dbal": "2.5.*@dev",
+        "twbs/bootstrap": "v3.1.1",
+        "fortawesome/font-awesome": "4.1.0"
     }
 }
