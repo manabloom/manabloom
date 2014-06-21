@@ -1,2 +1,5 @@
 templates_c/*.php
 src/libs/configs/config.inc.php
+src/vendor/*
+composer.lock
+composer.phar
