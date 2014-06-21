@@ -1,0 +1,10 @@
+{
+    "config": {
+        "vendor-dir": "src/vendor"
+    },
+    "require": {
+        "monolog/monolog": "1.7.*@dev",
+        "smarty/smarty": "v3.1.17" ,
+        "doctrine/dbal": "2.5.*@dev"
+    }
+}
